@@ -1,0 +1,21 @@
+
+
+void main() {
+  int t = 3;
+  int c = 5;
+  int fim = 0;
+  int nmr = 11;
+  //int nmr = 10;
+  
+ for ( int i = nmr-1; i >= 0; i--  ) {
+   if(i% c == 0 || i% t ==0){
+     print(i);
+   
+     fim += i;
+     print(fim);
+     
+   }
+ }
+  print('O resultado final é $fim');
+  
+}
