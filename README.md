@@ -13,7 +13,7 @@ https://dartpad.dev
 2. Comentar ou apagar o código que já inicializou junto com o site.
 
 3. Copiar o código que está dentro do arquivo "Dartpad Tarefa 1"
-( html )
+( https://github.com/Nayderuh/Processo-Seletivo-Escribo/blob/main/Dartpad%20Tarefa%201 )
 
 4. Rodar o codigo colocando qualquer numero na variável ''int nmr'' 
 
