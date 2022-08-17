@@ -6,7 +6,7 @@ somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferio
 número passado.
 
 ## Resolução em Dart
-- Para o projeto é necessário:
+- Para rodar o projeto é necessário:
 1. Abrir o site:
 https://dartpad.dev
 
